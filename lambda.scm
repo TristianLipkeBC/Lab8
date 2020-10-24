@@ -1,8 +1,6 @@
-umOf3
+(define SumOf3
         (lambda (a b c)
-                (if (null? ls)
-                        0
-                (+ a b c))
+                (+ a b c)))
 
 
 
